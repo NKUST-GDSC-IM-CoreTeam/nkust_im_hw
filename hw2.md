@@ -1,6 +1,6 @@
 # PERT
 
-![](PERT_CPM1.png)
+![](PERT.png)
 
 # Gannt 
 ![](Gannt1.png)
