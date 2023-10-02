@@ -1,3 +1,3 @@
-# PERT?CPM
+# PERT_CPM
 
-![](PERT_CPM1)
+![](PERT_CPM1.png)
